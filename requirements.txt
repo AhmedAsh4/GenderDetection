@@ -3,4 +3,3 @@ numpy==1.26.1
 opencv-python==4.8.1.78
 streamlit==1.28.2
 tensorflow==2.14.0
-tensorflow-intel==2.14.0
